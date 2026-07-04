@@ -1,0 +1,15 @@
+{
+  "id": "genesis-character-creator",
+  "title": "Genesis — Cinematic Character Creator",
+  "description": "A video-game style, step-by-step character creation wizard for the D&D 5e system on Foundry v12. Pulls classes, subclasses, species, and backgrounds from your compendium packs, lets the GM assign custom art to each class, supports starting at any level, and hands creation off to the dnd5e Advancement system so every feature is granted natively — now and on future level-ups.",
+  "version": "1.1.0",
+  "authors": [{ "name": "The Golden Triangle GM Toolkit" }],
+  "compatibility": { "minimum": "12", "verified": "12" },
+  "relationships": {
+    "systems": [
+      { "id": "dnd5e", "type": "system", "compatibility": { "minimum": "3.0.0" } }
+    ]
+  },
+  "esmodules": ["scripts/genesis.js"],
+  "styles": ["styles/genesis.css"]
+}
