@@ -2,7 +2,7 @@
   "id": "genesis-character-creator",
   "title": "Genesis \u2014 Cinematic Character Creator",
   "description": "A video-game style, step-by-step character creation wizard for the D&D 5e system on Foundry v12. Pulls classes, subclasses, species, and backgrounds from your compendium packs, lets the GM assign custom art to each class, supports starting at any level, and hands creation off to the dnd5e Advancement system so every feature is granted natively \u2014 now and on future level-ups.",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "authors": [
     {
       "name": "The Golden Triangle GM Toolkit"
@@ -31,5 +31,5 @@
   ],
   "url": "https://github.com/Sam-W-Jones/genesis-character-creator",
   "manifest": "https://raw.githubusercontent.com/Sam-W-Jones/genesis-character-creator/main/module.json",
-  "download": "https://github.com/Sam-W-Jones/genesis-character-creator/releases/download/2.2.3/module.zip"
+  "download": "https://github.com/Sam-W-Jones/genesis-character-creator/releases/download/2.2.4/module.zip"
 }
